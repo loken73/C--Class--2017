@@ -1,0 +1,6 @@
+C:\Users\f29pl\Desktop\Max\Max\bin\Debug\Max.exe.config
+C:\Users\f29pl\Desktop\Max\Max\bin\Debug\Max.exe
+C:\Users\f29pl\Desktop\Max\Max\bin\Debug\Max.pdb
+C:\Users\f29pl\Desktop\Max\Max\obj\Debug\Max.exe
+C:\Users\f29pl\Desktop\Max\Max\obj\Debug\Max.pdb
+C:\Users\f29pl\Desktop\Max\Max\obj\Debug\Max.csprojResolveAssemblyReference.cache

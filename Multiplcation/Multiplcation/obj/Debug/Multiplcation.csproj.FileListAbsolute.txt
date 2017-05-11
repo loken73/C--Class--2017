@@ -1,0 +1,6 @@
+C:\Users\f29pl\Desktop\Multiplcation\Multiplcation\bin\Debug\Multiplcation.exe.config
+C:\Users\f29pl\Desktop\Multiplcation\Multiplcation\bin\Debug\Multiplcation.exe
+C:\Users\f29pl\Desktop\Multiplcation\Multiplcation\bin\Debug\Multiplcation.pdb
+C:\Users\f29pl\Desktop\Multiplcation\Multiplcation\obj\Debug\Multiplcation.csprojResolveAssemblyReference.cache
+C:\Users\f29pl\Desktop\Multiplcation\Multiplcation\obj\Debug\Multiplcation.exe
+C:\Users\f29pl\Desktop\Multiplcation\Multiplcation\obj\Debug\Multiplcation.pdb

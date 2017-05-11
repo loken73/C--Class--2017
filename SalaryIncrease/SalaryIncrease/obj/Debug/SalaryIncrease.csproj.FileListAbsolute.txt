@@ -1,0 +1,6 @@
+C:\Users\f29pl\Desktop\SalaryIncrease\SalaryIncrease\bin\Debug\SalaryIncrease.exe.config
+C:\Users\f29pl\Desktop\SalaryIncrease\SalaryIncrease\bin\Debug\SalaryIncrease.exe
+C:\Users\f29pl\Desktop\SalaryIncrease\SalaryIncrease\bin\Debug\SalaryIncrease.pdb
+C:\Users\f29pl\Desktop\SalaryIncrease\SalaryIncrease\obj\Debug\SalaryIncrease.csprojResolveAssemblyReference.cache
+C:\Users\f29pl\Desktop\SalaryIncrease\SalaryIncrease\obj\Debug\SalaryIncrease.exe
+C:\Users\f29pl\Desktop\SalaryIncrease\SalaryIncrease\obj\Debug\SalaryIncrease.pdb
